@@ -1,0 +1,55 @@
+.root {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 15px auto;
+    position: relative;
+    font-size: 12px;
+}
+.wrapper {
+    padding: 10px;
+}
+
+.status {
+    text-align: left !important;
+    font-weight: bold !important;
+    margin-left: 30px !important;
+}
+
+.price {
+    text-align: left !important;
+    font-weight: bold !important;
+    margin-left: 30px !important;
+}
+.rooms {
+    text-align: left !important;
+}
+.adress {
+    text-align: left !important;
+}
+.buttons Button {
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: black;
+    border: 1px solid black;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.image {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 20px;
+    position: relative;
+}
+.image image {
+    object-fit: cover;
+}
+
+.imageFull {
+    min-height: 100px;
+    height: 100%;
+}
+.indention {
+    max-width: 160px;
+}

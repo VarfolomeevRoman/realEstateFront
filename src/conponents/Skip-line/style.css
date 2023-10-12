@@ -1,0 +1,4 @@
+.skip-line {
+    border-bottom: 2px solid rgb(202, 202, 202);
+    z-index: -1;
+}
